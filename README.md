@@ -52,8 +52,7 @@ Visit http://localhost:5173 in your browser.
 ```
 ### 🌍 Deployment
 This project is deployed using Vercel.
-You can access the live version here:
-👉 AI Chat Application
+You can access the live version here: https://ai-chat-application-gi7fccpbd-aanchal-guptas-projects.vercel.app/
 
 ### 🧠 How It Works
 The user sends a message in the chat.
@@ -88,7 +87,9 @@ src/
 ```
 ### 👩‍💻 Author
 Aanchal Gupta
-📫 GitHub Profile
+```bash
+https://github.com/gupta20aanchal
+```
 
 ### 📝 License
 This project is for learning and demonstration purposes.
