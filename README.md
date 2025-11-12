@@ -65,6 +65,7 @@ The AI response is displayed in the chat window.
 All API communication is handled securely using environment variables.
 
 ### 📂 Project Structure
+```bash
 src/
   api/
     llm.js
@@ -84,7 +85,7 @@ src/
   styles
   main.jsx
   index.css
-
+```
 ### 👩‍💻 Author
 Aanchal Gupta
 📫 GitHub Profile
