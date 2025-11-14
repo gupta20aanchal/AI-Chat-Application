@@ -91,7 +91,4 @@ Aanchal Gupta
 https://github.com/gupta20aanchal
 ```
 
-### 📝 License
-This project is for learning and demonstration purposes.
-Feel free to fork and build upon it.
 
